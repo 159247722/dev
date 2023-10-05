@@ -1,0 +1,5 @@
+C:\Users\dell\Source\Repos\Sum Array.cs\Sum Array.cs\obj\Debug\net6.0\Sum Array.cs.csproj.AssemblyReference.cache
+C:\Users\dell\Source\Repos\Sum Array.cs\Sum Array.cs\obj\Debug\net6.0\Sum Array.cs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dell\Source\Repos\Sum Array.cs\Sum Array.cs\obj\Debug\net6.0\Sum Array.cs.AssemblyInfoInputs.cache
+C:\Users\dell\Source\Repos\Sum Array.cs\Sum Array.cs\obj\Debug\net6.0\Sum Array.cs.AssemblyInfo.cs
+C:\Users\dell\Source\Repos\Sum Array.cs\Sum Array.cs\obj\Debug\net6.0\Sum Array.cs.csproj.CoreCompileInputs.cache
